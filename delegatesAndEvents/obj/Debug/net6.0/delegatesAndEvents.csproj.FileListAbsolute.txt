@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\bin\Debug\net6.0\delegatesAndEvents.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\bin\Debug\net6.0\delegatesAndEvents.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\bin\Debug\net6.0\delegatesAndEvents.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\bin\Debug\net6.0\delegatesAndEvents.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\bin\Debug\net6.0\delegatesAndEvents.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\refint\delegatesAndEvents.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\delegatesAndEvents.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\delegatesAndEvents\delegatesAndEvents\obj\Debug\net6.0\ref\delegatesAndEvents.dll
